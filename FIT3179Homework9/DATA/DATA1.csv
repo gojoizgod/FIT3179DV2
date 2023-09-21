@@ -1,0 +1,51 @@
+Iso3_code,Country,Region,Subregion,Indicator,Dimension,Category,Sex,Age,Year,Unit of measurement,VALUE,Source
+DZA,Algeria,Africa,Northern Africa,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,220,CTS
+AZE,Azerbaijan,Asia,Western Asia,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,28,CTS
+BHR,Bahrain,Asia,Western Asia,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,5,CTS
+BLR,Belarus,Europe,Eastern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,30,CTS
+BEL,Belgium,Europe,Western Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,1003,CTS
+BMU,Bermuda,Americas,Northern America,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,3,CTS
+BRN,Brunei Darussalam,Asia,South-eastern Asia,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,1,CTS
+BGR,Bulgaria,Europe,Eastern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,209,CTS
+CAN,Canada,Americas,Northern America,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,3198,CTS
+CHL,Chile,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,161,CTS
+HKG,"China, Hong Kong Special Administrative Region",Asia,Eastern Asia,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,0,CTS
+CRI,Costa Rica,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,5,CTS
+CYP,Cyprus,Asia,Western Asia,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,20,CTS
+CZE,Czechia,Europe,Eastern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,14,CTS
+EGY,Egypt,Africa,Northern Africa,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,16,CTS
+EST,Estonia,Europe,Northern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,2,CTS
+SWZ,Eswatini,Africa,Sub-Saharan Africa,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,122,CTS
+FIN,Finland,Europe,Northern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,1,CTS
+FRA,France,Europe,Western Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,2031,CTS
+GEO,Georgia,Asia,Western Asia,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,94,CTS
+GIN,Guinea,Africa,Sub-Saharan Africa,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,14,CTS
+HUN,Hungary,Europe,Eastern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,36,CTS
+IRL,Ireland,Europe,Northern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,53,CTS
+ITA,Italy,Europe,Southern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,132,CTS
+JPN,Japan,Asia,Eastern Asia,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,284,CTS/MoI
+KGZ,Kyrgyzstan,Asia,Central Asia,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,17,CTS
+LVA,Latvia,Europe,Northern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,26,CTS
+LTU,Lithuania,Europe,Northern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,37,CTS
+MEX,Mexico,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,169,CTS
+MNG,Mongolia,Asia,Eastern Asia,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,0,CTS
+MAR,Morocco,Africa,Northern Africa,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,392,CTS
+PER,Peru,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,275,CTS
+PHL,Philippines,Asia,South-eastern Asia,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,90,CTS
+POL,Poland,Europe,Eastern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,110,CTS
+QAT,Qatar,Asia,Western Asia,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,7,CTS/MoI
+ROU,Romania,Europe,Eastern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,321,CTS
+SGP,Singapore,Asia,South-eastern Asia,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,3,CTS
+SVN,Slovenia,Europe,Southern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,8,CTS
+LKA,Sri Lanka,Asia,Southern Asia,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,829,CTS
+PSE,State of Palestine,Asia,Western Asia,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,126,CTS
+CHE,Switzerland,Europe,Western Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,263,CTS
+SYR,Syrian Arab Republic,Asia,Western Asia,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,85,CTS
+TUR,Türkiye,Asia,Western Asia,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,7753,CTS
+TKM,Turkmenistan,Asia,Central Asia,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,157,CTS
+UKR,Ukraine,Europe,Eastern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,205,CTS/DMDB
+ARE,United Arab Emirates,Asia,Western Asia,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,434,CTS
+GBR_E_W,United Kingdom (England and Wales),Europe,Northern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,3125,CTS
+GBR_NI,United Kingdom (Northern Ireland),Europe,Northern Europe,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,71,CTS
+URY,Uruguay,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,3,CTS
+ZWE,Zimbabwe,Africa,Sub-Saharan Africa,Violent offences,by type of offence,Kidnapping,Total,Total,2003,Counts,139,CTS
