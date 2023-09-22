@@ -1,0 +1,55 @@
+Iso3_code,Country,Region,Subregion,Indicator,Dimension,Category,Sex,Age,Year,Unit of measurement,VALUE,Source
+DZA,Algeria,Africa,Northern Africa,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,23050,CTS
+AZE,Azerbaijan,Asia,Western Asia,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,155,CTS
+BHR,Bahrain,Asia,Western Asia,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,2701,CTS
+BLR,Belarus,Europe,Eastern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,4032,CTS
+BEL,Belgium,Europe,Western Europe,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,61959,CTS
+BMU,Bermuda,Americas,Northern America,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,522,CTS
+BRN,Brunei Darussalam,Asia,South-eastern Asia,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,470,CTS
+BGR,Bulgaria,Europe,Eastern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,3806,CTS
+CMR,Cameroon,Africa,Sub-Saharan Africa,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,2998,CTS/NSO
+CAN,Canada,Americas,Northern America,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,48135,CTS
+HKG,"China, Hong Kong Special Administrative Region",Asia,Eastern Asia,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,7754,CTS
+HRV,Croatia,Europe,Southern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,1249,CTS
+CYP,Cyprus,Asia,Western Asia,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,135,CTS
+DNK,Denmark,Europe,Northern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,10894,CTS
+ECU,Ecuador,Americas,Latin America and the Caribbean,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,7084,CTS
+SWZ,Eswatini,Africa,Sub-Saharan Africa,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,14725,CTS
+FIN,Finland,Europe,Northern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,28835,CTS
+FRA,France,Europe,Western Europe,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,135003,CTS
+DEU,Germany,Europe,Western Europe,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,445727,CTS
+GRC,Greece,Europe,Southern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,7663,CTS
+HUN,Hungary,Europe,Eastern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,11442,CTS
+IRL,Ireland,Europe,Northern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,11792,CTS
+JPN,Japan,Asia,Eastern Asia,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,58505,CTS/MoI
+KGZ,Kyrgyzstan,Asia,Central Asia,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,225,CTS
+LVA,Latvia,Europe,Northern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,883,CTS
+LIE,Liechtenstein,Europe,Western Europe,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,61,CTS
+LTU,Lithuania,Europe,Northern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,543,CTS
+MUS,Mauritius,Africa,Sub-Saharan Africa,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,105,CTS
+MCO,Monaco,Europe,Western Europe,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,94,CTS
+MNG,Mongolia,Asia,Eastern Asia,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,2440,CTS
+MNE,Montenegro,Europe,Southern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,141,CTS
+MAR,Morocco,Africa,Northern Africa,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,48662,CTS
+NLD,Netherlands,Europe,Western Europe,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,53500,CTS
+NOR,Norway,Europe,Northern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,2804,CTS
+PRT,Portugal,Europe,Southern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,44304,CTS
+QAT,Qatar,Asia,Western Asia,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,291,CTS/MoI
+ROU,Romania,Europe,Eastern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,9641,CTS
+STP,Sao Tome and Principe,Africa,Sub-Saharan Africa,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,1,CTS
+SGP,Singapore,Asia,South-eastern Asia,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,593,CTS
+SVK,Slovakia,Europe,Eastern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,4076,CTS
+SVN,Slovenia,Europe,Southern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,2400,CTS
+LKA,Sri Lanka,Asia,Southern Asia,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,22178,CTS
+PSE,State of Palestine,Asia,Western Asia,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,5283,CTS
+SWE,Sweden,Europe,Northern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,65177,CTS
+CHE,Switzerland,Europe,Western Europe,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,6732,CTS
+SYR,Syrian Arab Republic,Asia,Western Asia,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,5390,CTS
+TUR,Türkiye,Asia,Western Asia,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,91997,CTS
+UGA,Uganda,Africa,Sub-Saharan Africa,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,19491,CTS
+UKR,Ukraine,Europe,Eastern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,5703,CTS/DMDB
+GBR_E_W,United Kingdom (England and Wales),Europe,Northern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,455514,CTS
+GBR_NI,United Kingdom (Northern Ireland),Europe,Northern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,1116,CTS
+GBR_S,United Kingdom (Scotland),Europe,Northern Europe,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,62330,CTS
+USA,United States of America,Americas,Northern America,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,859030,CTS
+ZWE,Zimbabwe,Africa,Sub-Saharan Africa,Violent offences,by type of offence,Serious assault,Total,Total,2003,Counts,78464,CTS
